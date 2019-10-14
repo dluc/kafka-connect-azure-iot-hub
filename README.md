@@ -19,8 +19,5 @@ For more information on the capabilities of the connectors and how to use them, 
 
 ## Contribute Code
 
-If you want to contribute, we ask you to sign a [CLA](https://cla.microsoft.com/)(Contribution License Agreement). A
-friendly bot will remind you about it when you submit a pull-request.
-
 If you are sending a pull request, we kindly request to check the code style with IntelliJ IDEA, importing the settings
 from `Codestyle.IntelliJ.xml`.
